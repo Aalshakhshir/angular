@@ -1,6 +1,9 @@
 # Webpack: An Introduction
 
 <style>
+div.content
+{width:75%
+}
   h4 {font-size: 17px !important; text-transform: none !important;}
   .syntax { font-family: Consolas, 'Lucida Sans', Courier, sans-serif; color: black; font-size: 85%; }
 
